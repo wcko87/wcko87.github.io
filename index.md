@@ -1,9 +1,7 @@
 # wcko87's Resources Page
-#### [Youtube](https://www.youtube.com/user/wcko87) / [Twitter](https://twitter.com/wcko87) / [Twitch](https://www.twitch.tv/wcko87) / [GitHub](https://github.com/wcko87)
+### [Youtube](https://www.youtube.com/user/wcko87) / [Twitter](https://twitter.com/wcko87) / [Twitch](https://www.twitch.tv/wcko87) / [GitHub](https://github.com/wcko87)
 
 ----------------------
-
-# BMS
 
 ## BMS Guides
 
@@ -28,7 +26,7 @@
 
 ----------------------
 
-# Rabi-Ribi
+## Rabi-Ribi
 
 ### [Rabi-Ribi Randomizer](https://wcko87.github.io/rabiribi-randomizer/)
 
@@ -49,7 +47,7 @@
 
 ----------------------
 
-# Other
+## Other
 
 ### [Simple Twitch Streams Discord Bot](https://github.com/wcko87/simple-twitch-streams-bot)
 - A basic discord bot that tracks twitch streams for a specific game, and posts messages to discord when twitch streams go live.
