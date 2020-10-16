@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+# wcko87's Resources Page
 
-You can use the [editor on GitHub](https://github.com/wcko87/wcko87.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+#### [Youtube](https://www.youtube.com/user/wcko87)
+#### [Twitter](https://twitter.com/wcko87)
+#### [Twitch](https://www.twitch.tv/wcko87)
+#### [GitHub](https://github.com/wcko87)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# BMS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## BMS Guides
 
-```markdown
-Syntax highlighted code block
+### [What is BMS?](https://github.com/wcko87/beatoraja-english-guide/wiki/BMS-Overview)
 
-# Header 1
-## Header 2
-### Header 3
+### [How do I set up BMS? (with beatoraja)](https://github.com/wcko87/beatoraja-english-guide/wiki)
 
-- Bulleted
-- List
+### [Where do I download BMS songs?](https://github.com/wcko87/beatoraja-english-guide/wiki/Downloading-Songs)
 
-1. Numbered
-2. List
+## BMS Related Tools / Other
 
-**Bold** and _Italic_ and `Code` text
+### [lr2oraja](https://github.com/wcko87/lr2oraja)
+- Unofficial fork of beatoraja using LR2 gauges and judge.
 
-[Link](url) and ![Image](src)
-```
+### [w's BMS sabun table - w差分難易度表](https://wcko87.github.io/bms-table/obj-w.html)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### [BM input display](https://github.com/wcko87/bm-input-display)
+- Customizable input display for IIDX / BMS / similar controllers.
 
-### Jekyll Themes
+### [small tool to fix filename encodings](https://github.com/wcko87/fix-filename-encodings)
+- If the zip is in JP locale, but you extracted it in the wrong locale, the filenames will be garbled.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wcko87/wcko87.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+# Rabi-Ribi
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### [Rabi-Ribi Randomizer](https://wcko87.github.io/rabiribi-randomizer/)
+
+### [Item Tracker for Randomizer](https://wcko87.github.io/rabi-ribi-item-tracker/)
+
+### [Rabi-Ribi Map Editing Guide](https://wcko87.github.io/rabiribi-map-editing/)
+
+### Rabi-Ribi Custom Maps
+- [**Steam Workshop (Standard Maps)**](https://steamcommunity.com/workshop/browse/?appid=400910&requiredtags[]=Map+-+Standard)
+- [**Steam Workshop (Bun Race Maps)**](https://steamcommunity.com/workshop/browse/?appid=400910&requiredtags[]=Map+-+Bun+Race)
+- [**Speedrun.com Custom Map Leaderboards**](https://www.speedrun.com/rbrb_custom)
+- [**(no longer in use) old custom maps portal**](https://wcko87.github.io/rabi-ribi-maps/)
+
+### [Rabi-Ribi Miscellaneous Guides](https://wcko87.github.io/rabi-ribi-guides/)
+
+### [Love Bunny Crawl](https://wcko87.github.io/bunny-crawl/)
+- for stream overlay
+
+
+# Other
+
+### [Simple Twitch Streams Discord Bot](https://github.com/wcko87/simple-twitch-streams-bot)
+- A basic discord bot that tracks twitch streams for a specific game, and posts messages to discord when twitch streams go live.
+
+
