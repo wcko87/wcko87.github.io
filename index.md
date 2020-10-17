@@ -16,12 +16,12 @@
 #### [lr2oraja](https://github.com/wcko87/lr2oraja)
 - Unofficial fork of beatoraja using LR2 gauges and judge.
 
-#### [w's BMS sabun table - w差分難易度表](https://wcko87.github.io/bms-table/obj-w.html)
+#### [w's BMS Sabun Table - w差分難易度表](https://wcko87.github.io/bms-table/obj-w.html)
 
-#### [BM input display](https://github.com/wcko87/bm-input-display)
+#### [BM Input Display](https://github.com/wcko87/bm-input-display)
 - Customizable input display for IIDX / BMS / similar controllers.
 
-#### [small tool to fix filename encodings](https://github.com/wcko87/fix-filename-encodings)
+#### [Tool to fix filename encodings](https://github.com/wcko87/fix-filename-encodings)
 - If the zip is in JP locale, but you extracted it in the wrong locale, the filenames will be garbled.
 
 ----------------------
@@ -38,7 +38,7 @@
 - [**Steam Workshop (Standard Maps)**](https://steamcommunity.com/workshop/browse/?appid=400910&requiredtags[]=Map+-+Standard)
 - [**Steam Workshop (Bun Race Maps)**](https://steamcommunity.com/workshop/browse/?appid=400910&requiredtags[]=Map+-+Bun+Race)
 - [**Speedrun.com Custom Map Leaderboards**](https://www.speedrun.com/rbrb_custom)
-- [**(no longer in use) old custom maps portal**](https://wcko87.github.io/rabi-ribi-maps/)
+- [**Old Custom Maps Portal (no longer in use)**](https://wcko87.github.io/rabi-ribi-maps/)
 
 #### [Rabi-Ribi Miscellaneous Guides](https://wcko87.github.io/rabi-ribi-guides/)
 
