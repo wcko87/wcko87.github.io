@@ -1,5 +1,5 @@
 # wcko87's Resources Page
-#### [Youtube](https://www.youtube.com/user/wcko87) / [Twitter](https://twitter.com/wcko87) / [Twitch](https://www.twitch.tv/wcko87) / [GitHub](https://github.com/wcko87)
+#### [YouTube](https://www.youtube.com/user/wcko87) / [Twitter](https://twitter.com/wcko87) / [Twitch](https://www.twitch.tv/wcko87) / [GitHub](https://github.com/wcko87)
 
 ----------------------
 
