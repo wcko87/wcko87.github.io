@@ -16,7 +16,7 @@
 #### [lr2oraja](https://github.com/wcko87/lr2oraja)
 - Unofficial fork of beatoraja using LR2 gauges and judge.
 
-#### [w's BMS Sabun Table - w差分難易度表](https://wcko87.github.io/bms-table/obj-w.html)
+#### [w's BMS Charts (table) - 自作譜面の難易度表](https://wcko87.github.io/bms-table/obj-w.html)
 
 #### [BM Input Display](https://github.com/wcko87/bm-input-display)
 - Customizable input display for IIDX / BMS / similar controllers.
