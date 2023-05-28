@@ -17,6 +17,10 @@
 
 #### [BMS BGA Encoding Guide](https://wcko87.github.io/bms-checklist/video-encoding)
 
+#### [Making Charts](https://github.com/wcko87/beatoraja-english-guide/wiki/Making-Charts)
+
+#### [BMS Tools and Resources](https://github.com/wcko87/beatoraja-english-guide/wiki/BMS-Tools-and-Resources)
+
 ## BMS Related Tools / Other
 
 #### [lr2oraja](https://github.com/wcko87/lr2oraja)
