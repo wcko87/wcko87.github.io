@@ -3,13 +3,15 @@
 
 ----------------------
 
-## BMS Guides
+## BMS Guides (players)
 
 #### [What is BMS?](https://github.com/wcko87/beatoraja-english-guide/wiki/BMS-Overview)
 
 #### [How do I set up BMS? (with beatoraja)](https://github.com/wcko87/beatoraja-english-guide/wiki)
 
 #### [Where do I download BMS songs?](https://github.com/wcko87/beatoraja-english-guide/wiki/Downloading-Songs)
+
+## BMS Guides (producers)
 
 #### [BMS Production Checklist](https://wcko87.github.io/bms-checklist/)
 
@@ -27,6 +29,9 @@
 
 #### [Tool to fix filename encodings](https://github.com/wcko87/fix-filename-encodings)
 - If the zip is in JP locale, but you extracted it in the wrong locale, the filenames will be garbled.
+
+#### [BMS/beatoraja English Guide Discord](https://discord.gg/cRAN9YgTHQ)
+- For guide discussion and beatoraja troubleshooting.
 
 ----------------------
 
