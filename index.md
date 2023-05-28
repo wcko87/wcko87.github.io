@@ -11,6 +11,10 @@
 
 #### [Where do I download BMS songs?](https://github.com/wcko87/beatoraja-english-guide/wiki/Downloading-Songs)
 
+#### [BMS Production Checklist](https://wcko87.github.io/bms-checklist/)
+
+#### [BMS BGA Encoding Guide](https://wcko87.github.io/bms-checklist/video-encoding)
+
 ## BMS Related Tools / Other
 
 #### [lr2oraja](https://github.com/wcko87/lr2oraja)
