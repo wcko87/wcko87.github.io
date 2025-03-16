@@ -1,5 +1,5 @@
 # wcko87's Resources Page
-#### [YouTube](https://www.youtube.com/user/wcko87) / [Bluesky](https://bsky.app/profile/wcko87.bsky.social) / [Twitter](https://twitter.com/wcko87) / [Twitch](https://www.twitch.tv/wcko87) / [GitHub](https://github.com/wcko87)
+#### [YouTube](https://www.youtube.com/user/wcko87) / [Bluesky](https://bsky.app/profile/wcko87.bsky.social) / [Twitch](https://www.twitch.tv/wcko87) / [GitHub](https://github.com/wcko87)
 
 #### How to contact me:
 - Discord username: wcko87
